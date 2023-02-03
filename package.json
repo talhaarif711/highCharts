@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "faker": "^6.6.6",
+    "highcharts": "^10.3.3",
+    "highcharts-vue": "^1.4.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
